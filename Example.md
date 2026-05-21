@@ -1,0 +1,1 @@
+This is a example file to learn the basics of staging, committing, and pushing on Git
